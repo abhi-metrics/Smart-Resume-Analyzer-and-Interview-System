@@ -1,0 +1,31 @@
+# Python
+project-ai/.venv/
+project-ai/output/
+**/__pycache__/
+**/*.pyc
+project-ai/.env
+
+# Java
+project-backend/target/
+project-backend/.env
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Maven build folder
+target/
+
+# Environment files
+.env
+.env.*
+*.env
+*.local
+
+# Frontend
+project-frontend/node_modules/
+project-frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
